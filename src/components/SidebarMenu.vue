@@ -1,7 +1,7 @@
 <template>
-  <div class="absolute z-10 top-0 bg-white right-0 w-2/3 shadow min-h-screen">
-    <button @click="closeNavbar" class="absolute top-6 right-10" name="button close sidebar menu">
-      <span class="iconify text-2xl" data-icon="akar-icons:circle-x"></span>
+  <div class="absolute z-10 top-0 bg-white right-0 w-2/3 sm:w-1/2 shadow min-h-screen">
+    <button @click="closeNavbar" class="absolute top-6 right-8" name="button close sidebar menu">
+      <span class="iconify text-2xl text-gray-600" data-icon="akar-icons:circle-x"></span>
     </button>
 
     <div class="mt-20 flex flex-col">
