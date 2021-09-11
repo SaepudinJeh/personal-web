@@ -5,9 +5,9 @@
     </button>
 
     <div class="mt-20 flex flex-col">
-      <a href="#" class="hover:bg-blue-200 py-3 px-5 mx-6 rounded-full bg-gray-100 mt-3">Home</a>
-      <a href="#" class="hover:bg-blue-200 py-3 px-5 mx-6 rounded-full bg-gray-100 mt-3">Project</a>
-      <a href="#" class="hover:bg-blue-200 py-3 px-5 mx-6 rounded-full bg-gray-100 mt-3">Galery</a>
+      <a href="#" class="hover:bg-blue-100 hover:text-blue-700 font-medium py-3 px-5 mx-6 rounded-full bg-gray-100 mt-3">Home</a>
+      <a href="#" class="hover:bg-blue-100 hover:text-blue-700 font-medium py-3 px-5 mx-6 rounded-full bg-gray-100 mt-3">Project</a>
+      <a href="#" class="hover:bg-blue-100 hover:text-blue-700 font-medium py-3 px-5 mx-6 rounded-full bg-gray-100 mt-3">Galery</a>
     </div>
   </div>
 </template>

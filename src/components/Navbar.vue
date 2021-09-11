@@ -1,12 +1,12 @@
 <template>
   <nav class="sticky top-0 flex justify-between items-center px-6 lg:px-10 py-5">
-    <div class="text-lg md:text-xl font-bold text-blue-600">
+    <div class="text-lg md:text-xl xl:text-2xl font-bold text-blue-600">
       <a href="/">My Logo</a>
     </div>
     <div class="md:block hidden items-center text-lg text-gray-600">
-      <a href="#" class="px-6 font-medium py-2 hover:bg-blue-50 rounded-lg">Home</a>
-      <a href="#" class="px-6 font-medium py-2 hover:bg-blue-50 rounded-lg">Project</a>
-      <a href="#" class="px-6 font-medium py-2 hover:bg-blue-50 rounded-lg">Galery</a>
+      <a href="#" class="px-6 font-medium py-2 hover:bg-blue-50 hover:text-blue-700 rounded-lg">Home</a>
+      <a href="#" class="px-6 font-medium py-2 hover:bg-blue-50 hover:text-blue-700 rounded-lg">Project</a>
+      <a href="#" class="px-6 font-medium py-2 hover:bg-blue-50 hover:text-blue-700 rounded-lg">Galery</a>
     </div>
     <div class="md:hidden">
       <button @click="activeSidebar" name="button sidemenu">
