@@ -28,3 +28,5 @@ const isButtonMessageActive = (() => {
   store.commit('isNotifMessage')
 });
 </script>
+
+<!-- <span class="iconify" data-icon="eva:close-outline"></span> -->
